@@ -2,6 +2,8 @@
 
 Fluttery Wings is a fun and engaging 2D game built using Unity. It showcases unique gameplay mechanics and custom-designed assets, providing an exciting experience for players. This project is a testament to creativity and skill in game development.
 
+![Fluttery Wings Poster](Fluttery-Wings-Poster.png)
+
 ## Features
 
 - **Custom Assets**: Unique visuals crafted specifically for the game.
